@@ -1,11 +1,11 @@
 {
-    "name": "taihen",
-    "short_name": "taihen",
+    "name": "Taihen",
+    "short_name": "Taihen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A language project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
